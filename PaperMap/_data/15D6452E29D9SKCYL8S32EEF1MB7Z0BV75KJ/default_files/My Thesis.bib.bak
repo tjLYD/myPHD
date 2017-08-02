@@ -1,0 +1,629 @@
+% This file was created with JabRef 2.7.1.
+% Encoding: UTF8
+
+@STRING{dke = {Data \& Knowledge Engineering}}
+
+@STRING{joop = {Journal of Object-Oriented Programming}}
+
+@STRING{lnai = {Lecture Notes in Artificial Intelligence}}
+
+@STRING{lncs = {Lecture Notes in Computer Science}}
+
+@STRING{mibi = {Medizinische Informatik und Bioinformatik}}
+
+@STRING{tkde = {IEEE Transactions on Knowledge and Data Engineering}}
+
+@STRING{tods = {ACM Transactions on Database Systems}}
+
+@STRING{tois = {ACM Transactions on Information Systems}}
+
+@INPROCEEDINGS{Abe2017,
+  author = {Abe, S and Takagi, T and Takehara, K and Kimura, N and Hiraishi,
+	T and Komeyama, K and Torisawa, S and Asaumi, S},
+  title = {How many fish in a tank? Constructing an automated fish counting
+	system by using PTV analysis},
+  booktitle = {31st International Congress on High-Speed Imaging and Photonics},
+  year = {2017},
+  pages = {103281T--103281T},
+  organization = {International Society for Optics and Photonics},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2017 Constructing an Automated Fish Counting System by Using PTV Analysis.pdf:PDF}
+}
+
+@INPROCEEDINGS{Agrawal2012,
+  author = {Agrawal, Amit and Ramalingam, Srikumar and Taguchi, Yuichi and Chari,
+	Visesh},
+  title = {A theory of multi-layer flat refractive geometry},
+  booktitle = {Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference
+	on},
+  year = {2012},
+  pages = {3346--3353},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2012 A theory of multi-layer flat refractive geometry.pdf:PDF}
+}
+
+@ARTICLE{Brauer-Burchardt2015,
+  author = {Br{\"a}uer-Burchardt, Christian and Heinze, Matthias and Schmidt,
+	Ingo and K{\"u}hmstedt, Peter and Notni, Gunther},
+  title = {Underwater 3D surface measurement using fringe projection based scanning
+	devices},
+  journal = {Sensors},
+  year = {2015},
+  volume = {16},
+  pages = {13},
+  number = {1},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2016 Underwater 3D Surface Measurement Using Fringe Projection Based Scanning Devices.pdf:PDF},
+  publisher = {Multidisciplinary Digital Publishing Institute}
+}
+
+@INPROCEEDINGS{Burguera2016,
+  author = {Burguera, Antoni and Bonin-Font, Francisco and Lisani, Jose Luis
+	and Petro, Ana Belen and Oliver, Gabriel},
+  title = {Towards automatic visual sea grass detection in underwater areas
+	of ecological interest},
+  booktitle = {Emerging Technologies and Factory Automation (ETFA), 2016 IEEE 21st
+	International Conference on},
+  year = {2016},
+  pages = {1--4},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 Towards Automatic Visual Sea Grass Detection in Underwater Areas of Ecological Interest.pdf:PDF}
+}
+
+@ARTICLE{Beel2010,
+  author = {{J}oeran {B}eel and {B}ela {G}ipp},
+  title = {{A}cademic search engine spam and {G}oogle {S}cholar's resilience
+	against it},
+  journal = {Journal of Electronic Publishing},
+  year = {2010},
+  volume = {13},
+  number = {3},
+  month = {\#dec\#},
+  note = {Available at http://docear.org},
+  doi = {10.3998/3336451.0013.305},
+  file = {:../../../literature_repository/Example PDFs/Academic search engine spam and Google Scholars resilience against it.pdf:PDF},
+  owner = {Docear},
+  timestamp = {2012-08-20}
+}
+
+@INPROCEEDINGS{Beel2011c,
+  author = {{B}eel, {J}oeran and {G}ipp, {B}ela and {L}anger, {S}tefan and {G}enzmehr,
+	{M}arcel},
+  title = {{D}ocear: {A}n {A}cademic {L}iterature {S}uite for {S}earching, {O}rganizing
+	and {C}reating {A}cademic {L}iterature},
+  booktitle = {{P}roceedings of the 11th annual international {ACM}/{IEEE} joint
+	conference on {D}igital libraries},
+  year = {2011},
+  series = {{JCDL} '11},
+  pages = {465--466},
+  publisher = {{ACM}},
+  note = {Available at http://docear.org},
+  doi = {10.1145/1998076.1998188},
+  file = {:../../../literature_repository/Example PDFs/Docear -- An Academic Literature Suite.pdf:PDF},
+  owner = {Docear},
+  timestamp = {2012-08-20}
+}
+
+@INPROCEEDINGS{Beel2011b,
+  author = {{J}oeran {B}eel and {B}ela {G}ipp and {S}tefan {L}anger and {M}arcel
+	{G}enzmehr and {E}rik {W}ilde and {A}ndreas {N}ürnberger and {J}im
+	{P}itman},
+  title = {{I}ntroducing {M}r. {DL}ib, a {M}achine-readable {D}igital {L}ibrary},
+  booktitle = {{P}roceedings of the 11th {ACM}/{IEEE} {J}oint {C}onference on {D}igital
+	{L}ibraries ({JCDL}`11)},
+  year = {2011},
+  note = {Available at http://docear.org},
+  file = {:../../../literature_repository/Example PDFs/Mr. DLib -- A Machine Readable Digital Library.pdf:PDF},
+  owner = {Docear},
+  timestamp = {2012-08-20}
+}
+
+@ARTICLE{Beel10,
+  author = {{J}oeran {B}eel and {B}ela {G}ipp and {E}rik {W}ilde},
+  title = {{A}cademic {S}earch {E}ngine {O}ptimization ({ASEO}): {O}ptimizing
+	{S}cholarly {L}iterature for {G}oogle {S}cholar and {C}o.},
+  journal = {Journal of Scholarly Publishing},
+  year = {2010},
+  volume = {41},
+  pages = {176-190},
+  number = {2},
+  month = {\#jan\#},
+  note = {University of Toronto Press. Available at http://docear.org},
+  doi = {10.3138/jsp.41.2.176},
+  file = {:../../../literature_repository/Example PDFs/Academic Search Engine Optimization (ASEO) -- Optimizing Scholarly Literature for Google Scholar and Co.pdf:PDF},
+  owner = {Docear},
+  timestamp = {2012-08-20}
+}
+
+@INPROCEEDINGS{Chang2011,
+  author = {Chang, Yao-Jen and Chen, Tsuhan},
+  title = {Multi-view 3D reconstruction for scenes under the refractive plane
+	with known vertical direction},
+  booktitle = {Computer Vision (ICCV), 2011 IEEE International Conference on},
+  year = {2011},
+  pages = {351--358},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2011 Multi-view 3D reconstruction for scenes under the refractive plane with known vertical direction.pdf:PDF}
+}
+
+@ARTICLE{Chen2015,
+  author = {Chen, Xida and Sutphen, Steve and Macoun, Paul and Yang, Yee-Hong},
+  title = {Design and Implementation of a 3D Undersea Camera System},
+  journal = {arXiv preprint arXiv:1504.01753},
+  year = {2015},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2015 Design and implementation of a 3D undersea camera system.pdf:PDF}
+}
+
+@ARTICLE{Chen2017,
+  author = {Chen, Xida and Yang, Yee-Hong},
+  title = {A Closed-form Solution to Single Underwater Camera Calibration using
+	Triple Wavelength Dispersion and its Application to Single Camera
+	3D Reconstruction},
+  journal = {IEEE Transactions on Image Processing},
+  year = {2017},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2017 A Closed-Form Solution to Single Underwater Camera Calibration Using Triple Wavelength Dispersion and Its Application to Single Camera 3D Reconstruction.pdf:PDF},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{Chen2014,
+  author = {Chen, Xida and Yang, Yee-Hong},
+  title = {Two-view camera housing parameters calibration for multi-layer flat
+	refractive interface},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern
+	Recognition},
+  year = {2014},
+  pages = {524--531},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2014 Two-view camera housing parameters calibration for multi-layer flat refractive interface.pdf:PDF}
+}
+
+@ARTICLE{Chiang2012,
+  author = {Chiang, John Y and Chen, Ying-Ching},
+  title = {Underwater image enhancement by wavelength compensation and dehazing},
+  journal = {IEEE Transactions on Image Processing},
+  year = {2012},
+  volume = {21},
+  pages = {1756--1769},
+  number = {4},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2012 Underwater image enhancement by wavelength compensation and dehazing.pdf:PDF},
+  publisher = {IEEE}
+}
+
+@ARTICLE{Cocito2003,
+  author = {Cocito, S and Sgorbini, S and Peirano, A and Valle, M},
+  title = {3-D reconstruction of biological objects using underwater video technique
+	and image processing},
+  journal = {Journal of Experimental Marine Biology and Ecology},
+  year = {2003},
+  volume = {297},
+  pages = {57--70},
+  number = {1},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2003 3-D reconstruction of biological objects using underwater video technique and image processing.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{Edgington2003,
+  author = {Edgington, Duane R and Salamy, Karen A and Risi, Michael and Sherlock,
+	RE and Walther, Dirk and Koch, Christof},
+  title = {Automated event detection in underwater video},
+  booktitle = {OCEANS 2003. Proceedings},
+  year = {2003},
+  volume = {5},
+  pages = {P2749--P2753},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2003 automated event detection in underwate video.pdf:PDF}
+}
+
+@INPROCEEDINGS{Evans2003,
+  author = {Evans, Fiona H},
+  title = {Detecting fish in underwater video using the em algorithm},
+  booktitle = {Image Processing, 2003. ICIP 2003. Proceedings. 2003 International
+	Conference on},
+  year = {2003},
+  volume = {3},
+  pages = {III--1029},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2003 DETECTING FISH IN UNDERWATER VIDEO USING THE EM ALGORITHM .pdf:PDF}
+}
+
+@ARTICLE{Fang2013,
+  author = {Fang, Shuai and Deng, Rong and Cao, Yang and Fang, Chunlong},
+  title = {Effective Single Underwater Image Enhancement by Fusion.},
+  journal = {JCP},
+  year = {2013},
+  volume = {8},
+  pages = {904--911},
+  number = {4},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2013 Effective Single Underwater Image Enhancement by Fusion.pdf:PDF}
+}
+
+@INPROCEEDINGS{Gladstone2016,
+  author = {Gladstone, Ran and Moshe, Yair and Barel, Avihai and Shenhav, Elior},
+  title = {Distance estimation for marine vehicles using a monocular video camera},
+  booktitle = {Signal Processing Conference (EUSIPCO), 2016 24th European},
+  year = {2016},
+  pages = {2405--2409},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2016 Distance Estimation for Marine Vehicles Using a Monocular Video Camera.pdf:PDF}
+}
+
+@INPROCEEDINGS{Halder2016,
+  author = {Halder, Kalyan Kumar and Paul, Manoranjan and Tahtali, Murat and
+	Anavatti, Sreenatha G and Murshed, Manzur},
+  title = {A Centroid Algorithm for Stabilization of Turbulence-Degraded Underwater
+	Videos},
+  booktitle = {Digital Image Computing: Techniques and Applications (DICTA), 2016
+	International Conference on},
+  year = {2016},
+  pages = {1--6},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2016 A Centroid Algorithm for Stabilization of Turbulence-Degraded Underwater Videos.pdf:PDF}
+}
+
+@ARTICLE{Hollis2016,
+  author = {Hollis, Dallas and Edgington, Duane and Cline, Danelle},
+  title = {Automated Detection of Deep-Sea Animals},
+  year = {2016},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 Automated Detection of Deep-Sea Animals.pdf:PDF}
+}
+
+@BOOK{Jordt2014,
+  title = {Underwater 3D reconstruction based on physical models for refraction
+	and underwater light propagation},
+  publisher = {Department of Computer Science, Univ. Kiel},
+  year = {2014},
+  author = {Jordt, Anne},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2014 PHD Underwater 3D Reconstruction Based on Physical Models for Refraction and Underwater Light Propagation.pdf:PDF}
+}
+
+@INPROCEEDINGS{Jordt-Sedlazeck2013,
+  author = {Jordt-Sedlazeck, Anne and Koch, Reinhard},
+  title = {Refractive structure-from-motion on underwater images},
+  booktitle = {Proceedings of the IEEE international Conference on Computer Vision},
+  year = {2013},
+  pages = {57--64},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2013 Refractive structure-from-motion on Underwater Images.pdf:PDF}
+}
+
+@ARTICLE{Kang2012,
+  author = {Kang, Lai and Wu, Lingda and Yang, Yee-Hong},
+  title = {Two-view underwater structure and motion for cameras under flat refractive
+	interfaces},
+  journal = {Computer Vision--ECCV 2012},
+  year = {2012},
+  pages = {303--316},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2012 two-view underwater structure and motion for camera under flat refractive interfaces.pdf:PDF},
+  publisher = {Springer}
+}
+
+@ARTICLE{Kang2012a,
+  author = {Kang, Lai and Wu, Lingda and Yang, Yee-Hong},
+  title = {Experimental study of the influence of refraction on underwater three-dimensional
+	reconstruction using the SVP camera model},
+  journal = {Applied optics},
+  year = {2012},
+  volume = {51},
+  pages = {7591--7603},
+  number = {31},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2012 Experimental study of the influence of refraction on underwater 3D reconstruction using the svp camera model.pdf:PDF},
+  publisher = {Optical Society of America}
+}
+
+@ARTICLE{Kaur2017,
+  author = {Kaur, Karamjit and Kansal, Rajnish},
+  title = {Under Water Image Enhancement by Colour Convolution with Total Variation},
+  year = {2017},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2017 Under Water Image Enhancement by Colour Convolution with Total Variation.pdf:PDF}
+}
+
+@INPROCEEDINGS{Kawahara2013,
+  author = {Kawahara, Ryo and Nobuhara, Shohei and Matsuyama, Takashi},
+  title = {A pixel-wise varifocal camera model for efficient forward projection
+	and linear extrinsic calibration of underwater cameras with flat
+	housings},
+  booktitle = {Proceedings of the IEEE International Conference on Computer Vision
+	Workshops},
+  year = {2013},
+  pages = {819--824},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2013 A pixel-wise varifocal camera model for efficient forward projection and linear extrinsic calibration of underwater cameras with flat housing.pdf:PDF}
+}
+
+@INPROCEEDINGS{Komuro2017,
+  author = {Komuro, T and Chen, K and Enomoto, K and Toda, M and Tezuka, N},
+  title = {Tracking and removal of suspended matter from underwater video images},
+  booktitle = {The International Conference on Quality Control by Artificial Vision
+	2017},
+  year = {2017},
+  pages = {103380Y--103380Y},
+  organization = {International Society for Optics and Photonics},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2017 Tracking and removal of suspended matter from underwater video images.pdf:PDF}
+}
+
+@ARTICLE{Li2016,
+  author = {Li, Yujie and Lu, Huimin and Li, Jianru and Li, Xin and Li, Yun and
+	Serikawa, Seiichi},
+  title = {Underwater image de-scattering and classification by deep neural
+	network},
+  journal = {Computers \& Electrical Engineering},
+  year = {2016},
+  volume = {54},
+  pages = {68--77},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 Underwater image de-scattering and classification by deep neural network.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@ARTICLE{limmulti,
+  author = {Lim, May Chi and Lau, Phooi Yee and Lai, Siew Cheng},
+  title = {Multi-Camera View Synthesis for Underwater Video Sequences},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2017 Multi-Camera View Synthesis for Underwater Video Sequences.pdf:PDF}
+}
+
+@ARTICLE{Marcos2005,
+  author = {Marcos, Ma Shiela Angeli C and Soriano, Maricor N and Saloma, Caesar
+	A},
+  title = {Classification of coral reef images from underwater video using neural
+	networks},
+  journal = {Optics express},
+  year = {2005},
+  volume = {13},
+  pages = {8766--8771},
+  number = {22},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2005 Classification of coral reef images from underwater video using neural networks.pdf:PDF},
+  publisher = {Optical Society of America}
+}
+
+@INPROCEEDINGS{Marini2016,
+  author = {Marini, Simone and Azzurro, Ernesto and Coco, Salvatore and R{\'\i}o
+	Fernandez, Joaqu{\'\i}n del and Engu{\'\i}danos, S and Fanelli, E
+	and Nogueras Cervera, Marc and Sbragaglia, Valerio and Toma, Daniel
+	and Aguzzi, Jacopo},
+  title = {Automatic fish counting from underwater video images: performance
+	estimation and evaluation},
+  booktitle = {Instrumentation viewpoint},
+  year = {2016},
+  number = {19},
+  pages = {55--57},
+  organization = {SARTI},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 AUTOMATIC FISH COUNTING FROM UNDERWATER VIDEO IMAGES.pdf:PDF}
+}
+
+@ARTICLE{Nnolim2017,
+  author = {Nnolim, Uche A},
+  title = {Improved underwater image enhancement algorithms based on partial
+	differential equations (PDEs)},
+  journal = {arXiv preprint arXiv:1705.04272},
+  year = {2017},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2017 Improved underwater image enhancement algorithms based on partial differential.pdf:PDF}
+}
+
+@ARTICLE{Odriscoll2012,
+  author = {O'driscoll, Richard L and de Joux, Peter and Nelson, Richard and
+	Macaulay, Gavin J and Dunford, Adam J and Marriott, Peter M and Stewart,
+	Craig and Miller, Brian S},
+  title = {Species identification in seamount fish aggregations using moored
+	underwater video},
+  journal = {ICES journal of marine science},
+  year = {2012},
+  volume = {69},
+  pages = {648--659},
+  number = {4},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2012 Species identification in seamount fish aggregations using moored underwater video.pdf:PDF},
+  publisher = {Oxford University Press}
+}
+
+@INPROCEEDINGS{Papp2016,
+  author = {Papp, D{\'a}vid and Lovas, D{\'a}niel and Sz{\"u}cs, G{\'a}bor},
+  title = {Object Detection, Classification, Tracking and individual Recognition
+	for Sea Images and Videos.},
+  booktitle = {CLEF (Working Notes)},
+  year = {2016},
+  pages = {525--533},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 Object detection, classification, tracking and individual recognition for sea images and videos.pdf:PDF}
+}
+
+@INPROCEEDINGS{Pulido2014,
+  author = {Pulido, Jesus and Da Silva, Ricardo Dutra and Sumner, Dawn and Pedrini,
+	Helio and Hamann, Bernd},
+  title = {Constructing Point Clouds from Underwater Stereo Movies},
+  booktitle = {International Symposium on Visual Computing},
+  year = {2014},
+  pages = {423--434},
+  organization = {Springer},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2014 Constructing Point Clouds from Underwater Stereo Movies.pdf:PDF}
+}
+
+@ARTICLE{Quevedo2017,
+  author = {Quevedo, E and Delory, E and Callic{\'o}, GM and Tobajas, F and Sarmiento,
+	R},
+  title = {Underwater video enhancement using multi-camera super-resolution},
+  journal = {Optics Communications},
+  year = {2017},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2017 Underwater video enhancement using multi-camera super-resolution.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{Ramalingam2006,
+  author = {Ramalingam, Srikumar and Sturm, Peter and Lodha, Suresh K},
+  title = {Theory and calibration for axial cameras},
+  booktitle = {Asian Conference on Computer Vision},
+  year = {2006},
+  pages = {704--713},
+  organization = {Springer},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2006 Theory and Calibration for Axial Cameras.pdf:PDF}
+}
+
+@ARTICLE{Rodriguez-Blanco2016,
+  author = {Rodriguez-Blanco, Marco and Golikov, Victor},
+  title = {Multiframe GLRT-Based Adaptive Detection of Multipixel Targets on
+	a Sea Surface},
+  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and
+	Remote Sensing},
+  year = {2016},
+  volume = {9},
+  pages = {5506--5512},
+  number = {12},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 Multiframe GLRT-Based Adaptive Detection of Multipixel Targets on a Sea Surface.pdf:PDF},
+  publisher = {IEEE}
+}
+
+@INPROCEEDINGS{Rova2007,
+  author = {Rova, Andrew and Mori, Greg and Dill, Lawrence M},
+  title = {One Fish, Two Fish, Butterfish, Trumpeter: Recognizing Fish in Underwater
+	Video.},
+  booktitle = {MVA},
+  year = {2007},
+  pages = {404--407},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2007 recognizing fish in underwater video.pdf:PDF}
+}
+
+@INPROCEEDINGS{Scharstein2003,
+  author = {Scharstein, Daniel and Szeliski, Richard},
+  title = {High-accuracy stereo depth maps using structured light},
+  booktitle = {Computer Vision and Pattern Recognition, 2003. Proceedings. 2003
+	IEEE Computer Society Conference on},
+  year = {2003},
+  volume = {1},
+  pages = {I--I},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2003 High-accuracy stereo depth maps using structured light.pdf:PDF}
+}
+
+@INPROCEEDINGS{Sedlazeck2011,
+  author = {Sedlazeck, Anne and Koch, Reinhard},
+  title = {Calibration of Housing Parameters for Underwater Stereo-Camera Rigs.},
+  booktitle = {BMVC},
+  year = {2011},
+  pages = {1--11},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2011 Calibration of housing parameters for underwater stereo-camera rigs.pdf:PDF}
+}
+
+@INPROCEEDINGS{Sedlazeck2009,
+  author = {Sedlazeck, Anne and Koser, Kevin and Koch, Reinhard},
+  title = {3d reconstruction based on underwater video from rov kiel 6000 considering
+	underwater imaging conditions},
+  booktitle = {OCEANS 2009-EUROPE},
+  year = {2009},
+  pages = {1--10},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2009 3D reconstruction based on underwater video from ROV Kiel 6000 considering underwater imaging conditions.pdf:PDF}
+}
+
+@INPROCEEDINGS{Seese2016,
+  author = {Seese, Nicole and Myers, Andrew and Smith, Kaleb and Smith, Anthony
+	O},
+  title = {Adaptive Foreground Extraction for Deep Fish Classification},
+  booktitle = {Computer Vision for Analysis of Underwater Imagery (CVAUI), 2016
+	ICPR 2nd Workshop on},
+  year = {2016},
+  pages = {19--24},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 adaptive foreground extraction for deep fish classification.pdf:PDF}
+}
+
+@ARTICLE{Siddiqui2017,
+  author = {Siddiqui, Shoaib Ahmed and Salman, Ahmad and Malik, Muhammad Imran
+	and Shafait, Faisal and Mian, Ajmal and Shortis, Mark R and Harvey,
+	Euan S},
+  title = {Automatic fish species classification in underwater videos: exploiting
+	pre-trained deep neural network models to compensate for limited
+	labelled data},
+  journal = {ICES Journal of Marine Science},
+  year = {2017},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2017 Automatic fish species classification in underwater videos.pdf:PDF}
+}
+
+@INPROCEEDINGS{TJampens2016,
+  author = {T'Jampens, Roeland and Hernandez, Francisco and Vandecasteele, Florian
+	and Verstockt, Steven},
+  title = {Automatic detection, tracking and counting of birds in marine video
+	content},
+  booktitle = {Image Processing Theory Tools and Applications (IPTA), 2016 6th International
+	Conference on},
+  year = {2016},
+  pages = {1--6},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2016 automatic detection, tracking and counting of birds in marine video content.pdf:PDF}
+}
+
+@INPROCEEDINGS{Walther2004,
+  author = {Walther, Dirk and Edgington, Duane R and Koch, Christof},
+  title = {Detection and tracking of objects in underwater video},
+  booktitle = {Computer Vision and Pattern Recognition, 2004. CVPR 2004. Proceedings
+	of the 2004 IEEE Computer Society Conference on},
+  year = {2004},
+  volume = {1},
+  pages = {I--I},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2004 detection and tracking of objects in underwater video.pdf:PDF}
+}
+
+@ARTICLE{Weidong2017,
+  author = {Weidong, Xu and Juntang, Yang and Zhongze, Xu},
+  title = {The detection algorithm of irregular dynamic objects},
+  journal = {Multimedia Tools and Applications},
+  year = {2017},
+  pages = {1--17},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2017 The detection algorithm of irregular dynamic objects.pdf:PDF},
+  publisher = {Springer}
+}
+
+@INPROCEEDINGS{Westling2014,
+  author = {Westling, Fredrik and Sun, Changming and Wang, Dadong},
+  title = {A modular learning approach for fish counting and measurement using
+	stereo baited remote underwater video},
+  booktitle = {Digital lmage Computing: Techniques and Applications (DlCTA), 2014
+	International Conference on},
+  year = {2014},
+  pages = {1--7},
+  organization = {IEEE},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2014 a modular learning approach for fish counting and measurement using stereo baited remote underwater video.pdf:PDF}
+}
+
+@INPROCEEDINGS{Yau2013,
+  author = {Yau, Timothy and Gong, Minglun and Yang, Yee-Hong},
+  title = {Underwater camera calibration using wavelength triangulation},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern
+	Recognition},
+  year = {2013},
+  pages = {2499--2506},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Calibration 3D_Reconstruction\\2013 Underwater Camera Calibration Using Wavelength Triangulation.pdf:PDF}
+}
+
+@ARTICLE{Zhang2017,
+  author = {Zhang, Shu and Wang, Ting and Dong, Junyu and Yu, Hui},
+  title = {Underwater image enhancement via extended multi-scale Retinex},
+  journal = {Neurocomputing},
+  year = {2017},
+  volume = {245},
+  pages = {1--9},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Registration Enhancement Stabilization\\2017 Underwater image enhancement via extended multi-scale Retinex.pdf:PDF},
+  publisher = {Elsevier}
+}
+
+@INPROCEEDINGS{Zhou2017,
+  author = {Zhou, Yan and Li, Qingwu and Huo, Guanying},
+  title = {Underwater Moving Target Detection Based on Image Enhancement},
+  booktitle = {International Symposium on Neural Networks},
+  year = {2017},
+  pages = {427--436},
+  organization = {Springer},
+  file = {:F\:\\科研\\深海摄像系统\\整理\\literature_repository\\papers\\Counting Measurement Identification Tracking\\2017 Underwater Moving Target Detection Based on Image Enhancement.pdf:PDF}
+}
+
+@comment{jabref-meta: selector_keywords:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 ExplicitGroup:link spam\;0\;;
+1 ExplicitGroup:content spam\;0\;;
+1 ExplicitGroup:competiror click fraud\;0\;;
+1 KeywordGroup:Norman\;0\;owner\;Norman\;1\;0\;;
+1 ExplicitGroup:ourpublications\;0\;Beel10\;Beel2010\;;
+1 ExplicitGroup:test\;0\;Beel2010\;;
+}
+

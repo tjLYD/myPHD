@@ -1,0 +1,12 @@
+<project name="My Thesis" version="docear 1.0" ID="15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ">
+<folder type="library" name="Library">
+<link type="literature_annotations" name="Literature &amp; Annotations" path="project://15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/_data/15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/default_files/literature_and_annotations.mm"/>
+<link type="file" name="Temp" path="project://15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/_data/15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/default_files/temp.mm" system="true"/>
+<link type="file" name="Trash" path="project://15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/_data/15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/default_files/trash.mm" system="true"/>
+</folder>
+<folder type="physical" name="My drafts" path="project://15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/_data/15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/My%20Drafts/"/>
+<folder type="literature_repository" name="Literature repository" system="true">
+<folder type="repository_path" name="default" path="file:/F:/&#x79d1;&#x7814;/&#x6df1;&#x6d77;&#x6444;&#x50cf;&#x7cfb;&#x7edf;/&#x6574;&#x7406;//literature_repository"/>
+</folder>
+<link type="references" name="References" path="project://15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/_data/15D6452E29D9SKCYL8S32EEF1MB7Z0BV75KJ/default_files/My%20Thesis.bib" system="true"/>
+</project>
